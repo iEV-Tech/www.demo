@@ -1,0 +1,27 @@
+<svg width="1920" height="96" viewBox="0 0 1920 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3_6)">
+<g filter="url(#filter0_b_3_6)">
+<mask id="path-1-inside-1_3_6" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M960 0C987.68 0 1013.34 24 1041.02 24H1934C1936.76 24 1939 26.2386 1939 29V91C1939 93.7614 1936.76 96 1934 96H-8.00005C-10.7615 96 -13 93.7614 -13 91V29C-13 26.2386 -10.7614 24 -8 24H878.976C906.656 24 932.32 0 960 0V0V0Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M960 0C987.68 0 1013.34 24 1041.02 24H1934C1936.76 24 1939 26.2386 1939 29V91C1939 93.7614 1936.76 96 1934 96H-8.00005C-10.7615 96 -13 93.7614 -13 91V29C-13 26.2386 -10.7614 24 -8 24H878.976C906.656 24 932.32 0 960 0V0V0Z" fill="white"/>
+<path d="M1041.02 27H1934V21H1041.02V27ZM1934 27C1935.1 27 1936 27.8954 1936 29H1942C1942 24.5817 1938.42 21 1934 21V27ZM1936 29V91H1942V29H1936ZM1936 91C1936 92.1045 1935.1 93 1934 93V99C1938.42 99 1942 95.4183 1942 91H1936ZM1934 93H-8.00005V99H1934V93ZM-8.00005 93C-9.10458 93 -10 92.1046 -10 91H-16C-16 95.4182 -12.4184 99 -8.00005 99V93ZM-10 91V29H-16V91H-10ZM-10 29C-10 27.8954 -9.10457 27 -8 27V21C-12.4183 21 -16 24.5817 -16 29H-10ZM-8 27H878.976V21H-8V27ZM878.976 27C893.577 27 907.518 20.6754 920.719 14.7359C934.189 8.67537 946.921 3 960 3V-3C945.399 -3 931.459 3.32463 918.257 9.26415C904.787 15.3246 892.056 21 878.976 21V27ZM1041.02 21C1027.94 21 1015.21 15.3246 1001.74 9.26415C988.541 3.32463 974.601 -3 960 -3V3C973.079 3 985.811 8.67537 999.281 14.7359C1012.48 20.6754 1026.42 27 1041.02 27V21Z" fill="url(#paint0_linear_3_6)" mask="url(#path-1-inside-1_3_6)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_3_6" x="-245" y="-232" width="2416" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="116"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_3_6"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_3_6" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_3_6" x1="962.851" y1="-10.8165" x2="962.851" y2="54.125" gradientUnits="userSpaceOnUse">
+<stop offset="0.05" stop-color="#32B768"/>
+<stop offset="0.68" stop-color="#D9FFE8"/>
+<stop offset="0.87" stop-color="white"/>
+</linearGradient>
+<clipPath id="clip0_3_6">
+<rect width="1920" height="96" fill="white"/>
+</clipPath>
+</defs>
+</svg>
