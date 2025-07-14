@@ -244,6 +244,8 @@
 	"RefundStatus": "Refund status",
 	"RefundValue": "Refund value",
 	"RefundYes": "Refunded",
+	"RefundYesToPaid": "Refunded to paid account",
+	"RefundYesToWallet": "Refunded to iSAC balance",
 	"Regulations": "Regulations",
 	"Reply": "Reply",
 	"Resend": "Resend",

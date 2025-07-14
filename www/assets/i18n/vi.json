@@ -244,6 +244,8 @@
 	"RefundStatus": "Trạng thái hoàn tiền",
 	"RefundValue": "Số tiền hoàn lại",
 	"RefundYes": "Đã hoàn tiền",
+	"RefundYesToPaid": "Hoàn vào tài khoản đã thanh toán",
+	"RefundYesToWallet": "Hoàn vào tài khoản iSAC",
 	"Regulations": "Quy định",
 	"Reply": "Trả lời",
 	"Resend": "Gửi lại",
