@@ -1,27 +1,33 @@
 [
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "vn.infipower.isac",
-            "sha256_cert_fingerprints": [
-                "DA:63:1B:37:FB:01:E8:47:36:B9:F2:C2:32:59:02:33:4D:1C:42:6E:33:33:0F:BB:64:0B:60:02:5D:16:02:0F",
-                "94:F2:05:E5:CF:E6:3E:16:C0:E7:10:7C:CD:29:90:73:66:6B:17:92:E2:E4:FF:54:5A:53:B3:75:03:43:B6:0D"
-            ]
-        }
-    },
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "vn.infipower.isac.uat",
-            "sha256_cert_fingerprints": [
-                "79:63:2D:24:7F:70:19:A1:92:27:EF:50:E2:43:DA:DD:A7:6F:E0:DE:FE:F1:72:98:D8:4B:39:FD:7B:69:2F:E5"
-            ]
-        }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vn.infipower.isac",
+      "sha256_cert_fingerprints": [
+        "DA:63:1B:37:FB:01:E8:47:36:B9:F2:C2:32:59:02:33:4D:1C:42:6E:33:33:0F:BB:64:0B:60:02:5D:16:02:0F",
+        "94:F2:05:E5:CF:E6:3E:16:C0:E7:10:7C:CD:29:90:73:66:6B:17:92:E2:E4:FF:54:5A:53:B3:75:03:43:B6:0D"
+      ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vn.infipower.isac.uat",
+      "sha256_cert_fingerprints": [
+        "79:63:2D:24:7F:70:19:A1:92:27:EF:50:E2:43:DA:DD:A7:6F:E0:DE:FE:F1:72:98:D8:4B:39:FD:7B:69:2F:E5"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vn.iev.test",
+      "sha256_cert_fingerprints": [
+        "30:BC:31:C2:49:75:D0:1D:D5:99:7B:C1:D7:2B:BB:CC:F3:E4:30:2E:19:AA:8B:D2:74:0E:0D:E5:19:83:5B:FB"
+      ]
+    }
+  }
 ]
