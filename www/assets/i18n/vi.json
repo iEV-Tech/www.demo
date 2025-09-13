@@ -119,6 +119,7 @@
 	"Delete": "Xóa",
 	"Delete_Confirm": "Bạn có chắc muốn xóa dữ liệu này?",
 	"Detail": "Chi tiết",
+	"Detele": "Xóa",
 	"DeteleAccount": "Xóa tài khoản",
 	"DeteleAccount_Confirm": "Xác nhận xóa tài khoản",
 	"DidNotReceiveCode": "Không nhận được mã?",
@@ -292,6 +293,7 @@
 	"Total": "Tổng",
 	"TotalAmount": "Tổng số tiền",
 	"TransactionHistory": "Lịch sử tài khoản iSAC",
+	"TransactionHistoryVip": "Lịch sử tài khoản VIP",
 	"TurnOnFlash": "Bật đèn Flash",
 	"Unit": "ĐVT",
 	"Update": "Cập nhật",
@@ -334,5 +336,7 @@
 	"You": "Bạn",
 	"YourExperienceWithApp": "Trải nghiệm của bạn về ứng dụng trạm sạc như thế nào?",
 	"YourWay": "Cách bạn",
-	"TimeFrame": " Khung giờ"
+	"TimeFrame": " Khung giờ",
+	"PackageMoney": "Gói VNĐ",
+	"PackagePower": "Gói kWh"
 }

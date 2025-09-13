@@ -292,6 +292,7 @@
 	"Total": "Total",
 	"TotalAmount": "Total amount",
 	"TransactionHistory": "iSAC balance history",
+	"TransactionHistoryVip": "VIP account history",
 	"TurnOnFlash": "Turn on the Flash",
 	"Unit": "Unit",
 	"Update": "Update",
@@ -334,5 +335,8 @@
 	"You": "You",
 	"YourExperienceWithApp": "How was your experience with the charging station app?",
 	"YourWay": "Distance",
-	"TimeFrame": "Time frame"
+	"TimeFrame": "Time frame",
+	"PackageMoney": "Package VNĐ",
+	"PackagePower": "Package kWh",
+	"Detele": "Detele"
 }
