@@ -108,7 +108,7 @@
 	"CustomerInvoice": "Thông tin xuất hóa đơn",
 	"CustomerInvoiceDefault": "Dùng làm mặc định",
 	"CustomerInvoiceDescription": "Vui lòng điền đầy đủ tất cả thông tin, bạn sẽ tự chịu trách nhiệm về thông tin hóa đơn.",
-	"CustomerInvoiceNotice": "*Khách hàng tự chịu trách nhiệm với thông tin yêu cầu xuất hóa đơn của mình.",
+	"CustomerInvoiceNotice": "Vui lòng xác nhận thông tin hóa đơn và điền đầy đủ các mục. Quý khách sẽ chịu trách nhiệm về tính chính xác của thông tin đã cung cấp.",
 	"CustomerInvoiceSaved": "Thông tin xuất hóa đơn đã lưu",
 	"CustomerReviews": "Đánh giá của khách hàng",
 	"Customers": "Quý khách",

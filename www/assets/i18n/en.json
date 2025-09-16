@@ -108,7 +108,7 @@
 	"CustomerInvoice": "Billing information",
 	"CustomerInvoiceDefault": "Use as default",
 	"CustomerInvoiceDescription": "Please fill out all information completely, you will be responsible for the invoice information.",
-	"CustomerInvoiceNotice": "*Customers are solely responsible for their invoice request information.",
+	"CustomerInvoiceNotice": "Please confirm the invoice information and complete all required fields. You will be responsible for the accuracy of the information provided.",
 	"CustomerInvoiceSaved": "Invoicing information has been saved",
 	"CustomerReviews": "Customer reviews",
 	"Customers": "Customers",
