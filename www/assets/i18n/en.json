@@ -208,6 +208,7 @@
 	"Notify": "Notify",
 	"NotUpdate": "No data",
 	"NoVehicle": "No vehicle information created!",
+	"NoChargePackage": "No suitable charging package found!",
 	"NumConnector": "Num connector",
 	"Offline": "Offline",
 	"Online": "Online",
